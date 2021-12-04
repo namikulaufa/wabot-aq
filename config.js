@@ -1,9 +1,9 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281515860089', '6281334177340'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['628521783t752', '12018627397'] // Put your number here
+global.mods = ['628521783t752', '12018627397'] // Want some help?
+global.prems = ['628521783t752', '12018627397'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -42,8 +42,8 @@ fs.watchFile(file_exif, () => {
   require('./lib/exif.json')
 })
 
-global.packname = sticker_name
-global.author = sticker_author
+global.packname = Temukan satu alasan yang dapat membuatmu tetap berdiri
+global.author = untuk sejuta hal yang dapat menjatuhkanmu
 
 
 global.multiplier = 69 // The higher, The harder levelup
